@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+}
+img{
+  height:150px;
+  border-radius:50%;
+}
+#ins{
+  font-size:25px;
+    text-shadow:-4px -2px grey
+    
+}
+h1{
+  font-size:40px;
+  font-family:"Super Mario 256";
+  text-shadow:4px 2px grey;
+}
+.hr{
+  background-color:black;
+  height:10px;
+    width:100px;
+  margin-left:47%;
+      
+}
+.sec{
+  padding:100px;
+  text-align:center;
+  background:repeating-linear-gradient(45deg, #5433FF, #20BDFF, #A5FECB) ;
+  background-repeat:no-repeat;
+  width:cover;
+}
+.bio{
+  font-size:20px;
+  font-family: "Lucida Console", "Courier New", monospace; 
+    font-variant: small-caps;
+    
+}
